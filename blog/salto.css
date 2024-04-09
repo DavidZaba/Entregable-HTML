@@ -1,0 +1,78 @@
+
+body{
+    background-image: url("./img/salto.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.header{
+    background-color: rgb(9, 78, 30);
+    padding: 6px;
+}
+
+.header a{
+    color: greenyellow;
+    font-family: "Protest Riot", sans-serif;
+    text-decoration-line: none;
+    text-shadow: 1px 2px 2px white;  
+    font-size: 40px;  
+}
+
+nav{
+    text-align: right;
+    background-color: rgb(9, 78, 30);
+    padding: 5px 15px;
+}
+
+.nav li {
+    text-align: left;
+    display: inline-block;
+    padding: 5px;
+    font: bold 12px verdana;
+    color: white;
+}
+
+nav a{
+    background-color: #f44336;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+    
+.menu{
+    background-color: bisque;
+    width: 250px;
+    height: 250px;
+    background: linear-gradient(rgba(255,255,255,0.7), rgba(255,255,255,0.7));
+    float:right;
+    margin-top: 20px;
+    padding-top: 25px;
+}
+    
+.atracc {
+    text-align: center;
+    text-justify: auto;
+    list-style: none;
+}
+    
+h2{
+    font-family: "Protest Riot", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 50px;
+    text-align: center;
+    color: white;
+}
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  

@@ -1,0 +1,139 @@
+body{
+  background-image: url("./img/hacien.jpg");
+  background-repeat: no-repeat;
+ background-size: cover;
+}
+
+
+
+.fauna{
+    width: 550px;
+    height: 250px;
+    border-radius: 8px;
+    transition: width 2s, height 4s;
+}
+
+.fauna:hover{
+    width: 50%;
+}
+
+.nav li {
+    text-align: left;
+    display: inline-block;
+    padding: 5px;
+    font: bold 12px verdana;
+    color: white;
+}
+
+nav a{
+    background-color: #f44336;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration-line: none;
+  display: inline-block;
+}
+
+nav{
+    text-align: right;
+    background-color: rgb(9, 78, 30);
+    padding: 5px 15px;
+}
+
+h2{
+    font-family: "Protest Riot", sans-serif;
+    text-align: center;
+    font-size: 40px;
+    color: green;
+    transition: width 2s;
+}
+
+.Tres{
+    width: 40%;
+    height: 200px;
+    background-size: 100% 100%;
+    float:right;
+    padding: 15px;
+    padding-bottom: 2px;
+    float: right;
+    margin-right: 60px;
+    font-size: larger;
+}
+
+.Tres:hover{
+    background-color: beige;
+}
+
+.felin{
+    width: 550px;
+    height: 250px;
+    border-radius: 8px;   
+}
+
+.felin{
+   transition: width 2s, height 4s;
+}
+
+
+.felin:hover {
+    width: 50%;
+}
+
+.Fau{
+    width: 550px;
+    height: 200px;
+    padding: 15px;
+    padding-bottom: 2px;
+    float: right;
+    margin-right: 60px;
+    font-size: larger;
+}
+
+.Fau:hover{
+    background-color: beige;
+}
+
+.elepha{
+    width: 550px;
+    height: 250px;
+    float: right;
+    margin-right: 80px;
+    border-radius: 8px;
+    transition: width 2s, height 4s;
+
+}
+
+.elepha:hover{
+    width: 50%;
+}
+
+
+
+.Dos{
+    width: 550px;
+    height: 200px;
+    padding: 15px;
+    padding-bottom: 98px;
+    color: black; 
+    font-size: larger; 
+}
+
+.Dos:hover{
+    background-color: beige;
+}
+
+.Pie{
+    clear: both;
+    padding: 30px;
+    background: rgb(28, 192, 28);
+    color: #ffffff;
+    text-align: center;
+  }
+
+.redes{
+    float: right;
+}
+
+.redes img{
+    width: 40px;
+}
